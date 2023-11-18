@@ -1,3 +1,6 @@
+*.FCBak
+*.fcbak
+
 ### Linux template
 *~
 
@@ -80,3 +83,10 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+### FreeCad template
+*.pyc
+*.fcstd1
+*.FCStd1
+*.fcstd2
+*.FCStd2
